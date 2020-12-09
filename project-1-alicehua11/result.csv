@@ -1,0 +1,21 @@
+city,year,total_bike_per_yr
+Mountain View,2013,117
+Mountain View,2014,117
+Mountain View,2015,117
+Mountain View,2016,117
+Palo Alto,2013,75
+Palo Alto,2014,75
+Palo Alto,2015,75
+Palo Alto,2016,75
+Redwood City,2013,102
+Redwood City,2014,117
+Redwood City,2015,117
+Redwood City,2016,161
+San Francisco,2013,638
+San Francisco,2014,667
+San Francisco,2015,665
+San Francisco,2016,735
+San Jose,2013,249
+San Jose,2014,264
+San Jose,2015,264
+San Jose,2016,302

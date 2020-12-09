@@ -1,0 +1,1161 @@
+start_hour_str,dow_str,start_station_name,city,avg_duration,number_of_trips
+Morning,Tuesday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.7,7049
+Morning,Wednesday,San Francisco Caltrain (Townsend at 4th),San Francisco,12.3,6956
+Morning,Thursday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.5,6834
+Morning,Monday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.9,6130
+Morning,Friday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.7,5781
+Morning,Tuesday,San Francisco Caltrain 2 (330 Townsend),San Francisco,10.9,4940
+Morning,Monday,San Francisco Caltrain 2 (330 Townsend),San Francisco,10.8,4571
+Morning,Wednesday,San Francisco Caltrain 2 (330 Townsend),San Francisco,10.4,4424
+Morning,Thursday,San Francisco Caltrain 2 (330 Townsend),San Francisco,10.3,4074
+Morning,Tuesday,Temporary Transbay Terminal (Howard at Beale),San Francisco,8.9,3606
+Morning,Tuesday,Harry Bridges Plaza (Ferry Building),San Francisco,9.5,3599
+Morning,Wednesday,Harry Bridges Plaza (Ferry Building),San Francisco,9.2,3554
+Morning,Friday,San Francisco Caltrain 2 (330 Townsend),San Francisco,10.2,3421
+Morning,Thursday,Harry Bridges Plaza (Ferry Building),San Francisco,9.3,3340
+Morning,Monday,Harry Bridges Plaza (Ferry Building),San Francisco,9.5,3273
+Afternoon,Tuesday,San Francisco Caltrain (Townsend at 4th),San Francisco,10.3,3222
+Morning,Wednesday,Temporary Transbay Terminal (Howard at Beale),San Francisco,9.0,3206
+Morning,Monday,Temporary Transbay Terminal (Howard at Beale),San Francisco,9.0,3166
+Morning,Thursday,Temporary Transbay Terminal (Howard at Beale),San Francisco,8.9,3154
+Afternoon,Wednesday,San Francisco Caltrain (Townsend at 4th),San Francisco,10.1,3047
+Afternoon,Monday,San Francisco Caltrain (Townsend at 4th),San Francisco,10.4,2952
+Afternoon,Thursday,San Francisco Caltrain (Townsend at 4th),San Francisco,10.7,2892
+Morning,Friday,Harry Bridges Plaza (Ferry Building),San Francisco,9.5,2666
+Morning,Friday,Temporary Transbay Terminal (Howard at Beale),San Francisco,9.5,2650
+Mid Morning,Wednesday,San Francisco Caltrain 2 (330 Townsend),San Francisco,10.7,2486
+Mid Morning,Tuesday,San Francisco Caltrain 2 (330 Townsend),San Francisco,9.9,2458
+Afternoon,Wednesday,Townsend at 7th,San Francisco,10.4,2455
+Afternoon,Tuesday,Townsend at 7th,San Francisco,9.4,2424
+Mid Morning,Wednesday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.6,2419
+Afternoon,Monday,Townsend at 7th,San Francisco,9.3,2415
+Mid Morning,Monday,San Francisco Caltrain 2 (330 Townsend),San Francisco,11.3,2396
+Mid Morning,Thursday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.3,2313
+Mid Morning,Thursday,San Francisco Caltrain 2 (330 Townsend),San Francisco,9.6,2242
+Afternoon,Tuesday,San Francisco Caltrain 2 (330 Townsend),San Francisco,8.8,2210
+Mid Morning,Friday,San Francisco Caltrain 2 (330 Townsend),San Francisco,10.4,2175
+Afternoon,Friday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.7,2173
+Mid Morning,Tuesday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.1,2171
+Afternoon,Tuesday,2nd at Townsend,San Francisco,8.9,2163
+Morning,Tuesday,Steuart at Market,San Francisco,8.5,2158
+Afternoon,Thursday,Townsend at 7th,San Francisco,9.3,2131
+Afternoon,Monday,San Francisco Caltrain 2 (330 Townsend),San Francisco,8.8,2122
+Mid Morning,Friday,San Francisco Caltrain (Townsend at 4th),San Francisco,11.1,2106
+Afternoon,Wednesday,2nd at Townsend,San Francisco,9.3,2103
+Mid Morning,Monday,San Francisco Caltrain (Townsend at 4th),San Francisco,10.8,2102
+Afternoon,Monday,2nd at Townsend,San Francisco,8.9,2092
+Morning,Monday,Steuart at Market,San Francisco,9.1,2077
+Morning,Wednesday,Steuart at Market,San Francisco,9.1,2073
+Afternoon,Wednesday,San Francisco Caltrain 2 (330 Townsend),San Francisco,9.2,1995
+Afternoon,Thursday,San Francisco Caltrain 2 (330 Townsend),San Francisco,9.4,1991
+Afternoon,Thursday,2nd at Townsend,San Francisco,9.6,1973
+Afternoon,Tuesday,2nd at South Park,San Francisco,10.1,1946
+Morning,Thursday,Steuart at Market,San Francisco,8.3,1928
+Afternoon,Tuesday,Market at Sansome,San Francisco,8.6,1922
+Afternoon,Wednesday,Market at Sansome,San Francisco,8.9,1909
+Morning,Wednesday,Grant Avenue at Columbus Avenue,San Francisco,9.7,1890
+Afternoon,Thursday,Market at Sansome,San Francisco,9.2,1882
+Afternoon,Wednesday,2nd at South Park,San Francisco,8.6,1865
+Afternoon,Monday,2nd at South Park,San Francisco,8.5,1846
+Afternoon,Monday,Market at Sansome,San Francisco,8.7,1830
+Morning,Tuesday,Grant Avenue at Columbus Avenue,San Francisco,10.0,1829
+Afternoon,Tuesday,Embarcadero at Sansome,San Francisco,9.9,1791
+Afternoon,Wednesday,Market at 10th,San Francisco,10.2,1768
+Afternoon,Monday,Steuart at Market,San Francisco,10.0,1727
+Afternoon,Monday,Embarcadero at Sansome,San Francisco,10.5,1721
+Afternoon,Tuesday,Market at 10th,San Francisco,11.2,1710
+Afternoon,Wednesday,Steuart at Market,San Francisco,10.1,1700
+Afternoon,Tuesday,Temporary Transbay Terminal (Howard at Beale),San Francisco,10.5,1697
+Afternoon,Wednesday,Embarcadero at Sansome,San Francisco,10.9,1691
+Morning,Friday,Steuart at Market,San Francisco,8.1,1691
+Afternoon,Thursday,2nd at South Park,San Francisco,8.4,1675
+Morning,Thursday,Grant Avenue at Columbus Avenue,San Francisco,9.8,1674
+Afternoon,Tuesday,2nd at Folsom,San Francisco,7.8,1669
+Afternoon,Wednesday,Temporary Transbay Terminal (Howard at Beale),San Francisco,10.8,1666
+Afternoon,Monday,Temporary Transbay Terminal (Howard at Beale),San Francisco,9.2,1660
+Afternoon,Tuesday,Steuart at Market,San Francisco,10.1,1654
+Afternoon,Monday,Market at 10th,San Francisco,10.0,1651
+Afternoon,Friday,Townsend at 7th,San Francisco,9.8,1644
+Afternoon,Thursday,Market at 10th,San Francisco,10.2,1617
+Afternoon,Tuesday,Howard at 2nd,San Francisco,8.5,1589
+Afternoon,Wednesday,2nd at Folsom,San Francisco,7.4,1584
+Afternoon,Friday,2nd at Townsend,San Francisco,9.7,1574
+Morning,Monday,Grant Avenue at Columbus Avenue,San Francisco,9.7,1555
+Afternoon,Thursday,Temporary Transbay Terminal (Howard at Beale),San Francisco,9.5,1547
+Afternoon,Thursday,Embarcadero at Sansome,San Francisco,11.4,1527
+Morning,Tuesday,2nd at Townsend,San Francisco,7.7,1521
+Afternoon,Monday,2nd at Folsom,San Francisco,7.3,1507
+Morning,Monday,2nd at Townsend,San Francisco,7.8,1505
+Afternoon,Friday,San Francisco Caltrain 2 (330 Townsend),San Francisco,11.4,1499
+Afternoon,Monday,Howard at 2nd,San Francisco,7.7,1452
+Afternoon,Wednesday,Howard at 2nd,San Francisco,9.5,1447
+Afternoon,Friday,Market at 10th,San Francisco,10.3,1436
+Afternoon,Thursday,Howard at 2nd,San Francisco,8.4,1431
+Afternoon,Friday,Market at Sansome,San Francisco,9.7,1430
+Morning,Friday,Grant Avenue at Columbus Avenue,San Francisco,9.7,1428
+Afternoon,Thursday,Steuart at Market,San Francisco,10.2,1427
+Morning,Wednesday,2nd at Townsend,San Francisco,7.5,1398
+Afternoon,Tuesday,Embarcadero at Folsom,San Francisco,10.0,1393
+Afternoon,Tuesday,Broadway St at Battery St,San Francisco,10.7,1388
+Afternoon,Friday,2nd at South Park,San Francisco,10.6,1373
+Afternoon,Monday,Embarcadero at Folsom,San Francisco,9.2,1366
+Afternoon,Wednesday,Broadway St at Battery St,San Francisco,9.4,1364
+Afternoon,Thursday,2nd at Folsom,San Francisco,6.8,1358
+Mid Morning,Wednesday,Steuart at Market,San Francisco,8.0,1342
+Afternoon,Monday,Market at 4th,San Francisco,10.1,1341
+Mid Morning,Tuesday,Steuart at Market,San Francisco,8.6,1325
+Afternoon,Wednesday,Embarcadero at Folsom,San Francisco,9.9,1305
+Morning,Thursday,2nd at Townsend,San Francisco,7.5,1287
+Afternoon,Thursday,Broadway St at Battery St,San Francisco,10.5,1258
+Afternoon,Tuesday,Market at 4th,San Francisco,9.4,1236
+Morning,Friday,2nd at Townsend,San Francisco,7.7,1234
+Morning,Tuesday,Embarcadero at Bryant,San Francisco,7.6,1225
+Mid Morning,Tuesday,Temporary Transbay Terminal (Howard at Beale),San Francisco,9.2,1225
+Mid Morning,Thursday,Steuart at Market,San Francisco,8.7,1223
+Afternoon,Monday,Broadway St at Battery St,San Francisco,9.0,1221
+Mid Morning,Monday,2nd at Townsend,San Francisco,9.0,1216
+Afternoon,Wednesday,Market at 4th,San Francisco,8.1,1215
+Afternoon,Friday,Embarcadero at Sansome,San Francisco,9.8,1207
+Morning,Tuesday,Townsend at 7th,San Francisco,8.3,1207
+Morning,Thursday,Embarcadero at Bryant,San Francisco,7.9,1203
+Mid Morning,Wednesday,Temporary Transbay Terminal (Howard at Beale),San Francisco,8.8,1196
+Morning,Tuesday,Market at 10th,San Francisco,11.3,1195
+Morning,Wednesday,Market at 10th,San Francisco,9.9,1191
+Morning,Wednesday,Embarcadero at Bryant,San Francisco,7.9,1185
+Mid Morning,Tuesday,2nd at Townsend,San Francisco,8.9,1176
+Afternoon,Thursday,Market at 4th,San Francisco,9.3,1176
+Afternoon,Tuesday,Commercial at Montgomery,San Francisco,10.3,1165
+Afternoon,Thursday,Embarcadero at Folsom,San Francisco,9.2,1157
+Afternoon,Friday,Steuart at Market,San Francisco,12.1,1155
+Mid Morning,Monday,Steuart at Market,San Francisco,8.8,1144
+Mid Morning,Thursday,Temporary Transbay Terminal (Howard at Beale),San Francisco,9.2,1133
+Afternoon,Wednesday,Commercial at Montgomery,San Francisco,9.0,1131
+Morning,Tuesday,Civic Center BART (7th at Market),San Francisco,8.9,1130
+Morning,Monday,Embarcadero at Bryant,San Francisco,7.7,1122
+Mid Morning,Wednesday,2nd at Townsend,San Francisco,8.5,1113
+Morning,Wednesday,Townsend at 7th,San Francisco,8.9,1113
+Afternoon,Friday,2nd at Folsom,San Francisco,7.9,1111
+Morning,Monday,Townsend at 7th,San Francisco,9.3,1106
+Afternoon,Monday,Commercial at Montgomery,San Francisco,9.8,1098
+Morning,Thursday,Market at 10th,San Francisco,9.4,1095
+Morning,Monday,Market at 10th,San Francisco,9.9,1093
+Morning,Thursday,Townsend at 7th,San Francisco,8.2,1082
+Mid Morning,Tuesday,Market at Sansome,San Francisco,7.4,1078
+Afternoon,Tuesday,Embarcadero at Vallejo,San Francisco,9.9,1071
+Mid Morning,Friday,Steuart at Market,San Francisco,8.0,1069
+Afternoon,Tuesday,5th at Howard,San Francisco,8.9,1062
+Afternoon,Monday,Harry Bridges Plaza (Ferry Building),San Francisco,10.5,1060
+Afternoon,Wednesday,Embarcadero at Vallejo,San Francisco,9.9,1059
+Afternoon,Wednesday,5th at Howard,San Francisco,7.8,1056
+Afternoon,Thursday,5th at Howard,San Francisco,7.8,1056
+Morning,Tuesday,Embarcadero at Sansome,San Francisco,9.2,1054
+Afternoon,Tuesday,Harry Bridges Plaza (Ferry Building),San Francisco,10.4,1053
+Mid Morning,Wednesday,Harry Bridges Plaza (Ferry Building),San Francisco,9.6,1051
+Morning,Friday,Embarcadero at Bryant,San Francisco,7.7,1049
+Morning,Wednesday,Embarcadero at Sansome,San Francisco,7.9,1049
+Afternoon,Friday,Howard at 2nd,San Francisco,7.6,1049
+Mid Morning,Tuesday,Harry Bridges Plaza (Ferry Building),San Francisco,8.9,1048
+Afternoon,Thursday,Commercial at Montgomery,San Francisco,8.9,1041
+Mid Morning,Thursday,Harry Bridges Plaza (Ferry Building),San Francisco,9.2,1037
+Mid Morning,Wednesday,Market at Sansome,San Francisco,8.0,1035
+Afternoon,Thursday,Embarcadero at Vallejo,San Francisco,9.2,1027
+Morning,Friday,Market at 10th,San Francisco,9.4,1026
+Afternoon,Tuesday,San Jose Diridon Caltrain Station,San Jose,9.1,1025
+Afternoon,Friday,Broadway St at Battery St,San Francisco,9.9,1020
+Afternoon,Tuesday,Mechanics Plaza (Market at Battery),San Francisco,9.3,1018
+Afternoon,Tuesday,Powell Street BART,San Francisco,8.4,1010
+Afternoon,Friday,Temporary Transbay Terminal (Howard at Beale),San Francisco,9.7,1008
+Afternoon,Thursday,Harry Bridges Plaza (Ferry Building),San Francisco,12.4,1007
+Afternoon,Friday,Market at 4th,San Francisco,9.7,1007
+Mid Morning,Thursday,2nd at Townsend,San Francisco,10.9,1006
+Afternoon,Monday,Embarcadero at Vallejo,San Francisco,15.0,1005
+Mid Morning,Monday,Temporary Transbay Terminal (Howard at Beale),San Francisco,8.8,1003
+Afternoon,Monday,5th at Howard,San Francisco,7.4,1003
+Morning,Monday,Embarcadero at Sansome,San Francisco,8.6,1001
+Morning,Thursday,Civic Center BART (7th at Market),San Francisco,8.5,1001
+Mid Morning,Thursday,Market at Sansome,San Francisco,7.4,995
+Mid Morning,Friday,Temporary Transbay Terminal (Howard at Beale),San Francisco,8.9,986
+Afternoon,Thursday,Powell Street BART,San Francisco,8.6,984
+Morning,Monday,Civic Center BART (7th at Market),San Francisco,9.1,981
+Morning,Wednesday,Civic Center BART (7th at Market),San Francisco,9.4,979
+Afternoon,Wednesday,Harry Bridges Plaza (Ferry Building),San Francisco,10.5,974
+Afternoon,Tuesday,Spear at Folsom,San Francisco,9.9,973
+Afternoon,Monday,Mechanics Plaza (Market at Battery),San Francisco,9.1,973
+Afternoon,Monday,San Jose Diridon Caltrain Station,San Jose,9.2,969
+Afternoon,Tuesday,Beale at Market,San Francisco,9.4,962
+Morning,Thursday,Embarcadero at Sansome,San Francisco,8.6,962
+Afternoon,Wednesday,Beale at Market,San Francisco,9.4,959
+Afternoon,Monday,Powell Street BART,San Francisco,9.6,956
+Afternoon,Wednesday,Mechanics Plaza (Market at Battery),San Francisco,10.1,950
+Mid Morning,Monday,Market at Sansome,San Francisco,7.6,945
+Mid Morning,Friday,2nd at Townsend,San Francisco,8.5,943
+Morning,Tuesday,San Jose Diridon Caltrain Station,San Jose,7.9,937
+Mid Morning,Monday,Harry Bridges Plaza (Ferry Building),San Francisco,9.0,937
+Afternoon,Tuesday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,7.6,935
+Morning,Wednesday,South Van Ness at Market,San Francisco,12.9,929
+Morning,Tuesday,South Van Ness at Market,San Francisco,12.7,929
+Afternoon,Monday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,10.8,927
+Mid Morning,Friday,Harry Bridges Plaza (Ferry Building),San Francisco,10.2,923
+Morning,Friday,Embarcadero at Sansome,San Francisco,8.9,918
+Afternoon,Thursday,Mechanics Plaza (Market at Battery),San Francisco,11.9,918
+Afternoon,Monday,Beale at Market,San Francisco,9.3,911
+Mid Morning,Tuesday,Beale at Market,San Francisco,13.7,910
+Morning,Tuesday,Market at Sansome,San Francisco,6.6,908
+Afternoon,Thursday,San Jose Diridon Caltrain Station,San Jose,11.0,896
+Mid Morning,Friday,Market at Sansome,San Francisco,6.6,894
+Afternoon,Friday,5th at Howard,San Francisco,7.6,892
+Afternoon,Monday,Davis at Jackson,San Francisco,10.1,890
+Afternoon,Thursday,Beale at Market,San Francisco,9.6,890
+Morning,Monday,Market at Sansome,San Francisco,6.8,889
+Afternoon,Thursday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,7.5,887
+Afternoon,Wednesday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,8.1,882
+Morning,Wednesday,Market at Sansome,San Francisco,6.8,882
+Afternoon,Friday,Harry Bridges Plaza (Ferry Building),San Francisco,11.7,881
+Mid Morning,Wednesday,Beale at Market,San Francisco,7.1,879
+Morning,Friday,Townsend at 7th,San Francisco,8.9,879
+Morning,Thursday,San Jose Diridon Caltrain Station,San Jose,7.7,877
+Morning,Wednesday,San Jose Diridon Caltrain Station,San Jose,8.0,875
+Afternoon,Wednesday,Davis at Jackson,San Francisco,10.5,875
+Afternoon,Friday,Embarcadero at Folsom,San Francisco,9.6,875
+Afternoon,Wednesday,Powell Street BART,San Francisco,8.3,870
+Morning,Friday,Civic Center BART (7th at Market),San Francisco,8.0,869
+Afternoon,Wednesday,San Jose Diridon Caltrain Station,San Jose,9.2,865
+Afternoon,Tuesday,Davis at Jackson,San Francisco,9.9,864
+Mid Morning,Thursday,Beale at Market,San Francisco,7.0,862
+Morning,Tuesday,Beale at Market,San Francisco,7.6,858
+Morning,Thursday,Market at Sansome,San Francisco,7.5,857
+Afternoon,Wednesday,Clay at Battery,San Francisco,10.4,841
+Morning,Thursday,South Van Ness at Market,San Francisco,13.5,841
+Afternoon,Wednesday,Spear at Folsom,San Francisco,9.2,836
+Mid Morning,Monday,Beale at Market,San Francisco,6.7,835
+Morning,Thursday,Beale at Market,San Francisco,6.5,828
+Afternoon,Tuesday,Clay at Battery,San Francisco,10.7,826
+Afternoon,Thursday,Spear at Folsom,San Francisco,10.3,809
+Afternoon,Monday,Clay at Battery,San Francisco,10.7,802
+Morning,Monday,South Van Ness at Market,San Francisco,13.2,800
+Afternoon,Friday,Commercial at Montgomery,San Francisco,10.6,799
+Afternoon,Thursday,Clay at Battery,San Francisco,10.5,797
+Afternoon,Monday,Spear at Folsom,San Francisco,12.3,795
+Mid Morning,Friday,Beale at Market,San Francisco,6.6,794
+Morning,Wednesday,Beale at Market,San Francisco,7.7,789
+Morning,Friday,South Van Ness at Market,San Francisco,13.0,777
+Morning,Friday,San Jose Diridon Caltrain Station,San Jose,7.1,767
+Morning,Tuesday,Powell Street BART,San Francisco,8.4,763
+Afternoon,Thursday,Davis at Jackson,San Francisco,10.3,761
+Morning,Monday,San Jose Diridon Caltrain Station,San Jose,8.0,760
+Afternoon,Wednesday,South Van Ness at Market,San Francisco,10.9,760
+Afternoon,Friday,Embarcadero at Vallejo,San Francisco,9.3,758
+Afternoon,Tuesday,South Van Ness at Market,San Francisco,13.5,744
+Morning,Tuesday,Powell at Post (Union Square),San Francisco,7.5,743
+Morning,Monday,Beale at Market,San Francisco,7.7,733
+Afternoon,Friday,Spear at Folsom,San Francisco,10.6,731
+Morning,Wednesday,Powell at Post (Union Square),San Francisco,7.6,730
+Afternoon,Friday,Powell Street BART,San Francisco,10.5,727
+Morning,Wednesday,Powell Street BART,San Francisco,8.8,718
+Afternoon,Monday,South Van Ness at Market,San Francisco,10.9,716
+Afternoon,Thursday,South Van Ness at Market,San Francisco,11.0,703
+Mid Morning,Tuesday,Powell Street BART,San Francisco,7.0,688
+Morning,Tuesday,Spear at Folsom,San Francisco,9.4,683
+Mid Morning,Wednesday,Powell Street BART,San Francisco,9.9,675
+Afternoon,Friday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,8.7,673
+Mid Morning,Tuesday,Market at 10th,San Francisco,9.6,670
+Morning,Thursday,Powell Street BART,San Francisco,8.1,669
+Morning,Wednesday,2nd at South Park,San Francisco,8.1,668
+Morning,Friday,Market at Sansome,San Francisco,6.6,668
+Afternoon,Friday,San Jose Diridon Caltrain Station,San Jose,14.2,667
+Morning,Wednesday,2nd at Folsom,San Francisco,7.0,667
+Afternoon,Tuesday,Post at Kearny,San Francisco,8.6,666
+Mid Morning,Thursday,Grant Avenue at Columbus Avenue,San Francisco,14.9,664
+Mid Morning,Thursday,Powell Street BART,San Francisco,7.1,663
+Mid Morning,Tuesday,Mountain View Caltrain Station,Mountain View,5.3,662
+Afternoon,Friday,Clay at Battery,San Francisco,15.8,659
+Mid Morning,Tuesday,Civic Center BART (7th at Market),San Francisco,10.2,659
+Morning,Thursday,Powell at Post (Union Square),San Francisco,8.2,657
+Mid Morning,Thursday,Civic Center BART (7th at Market),San Francisco,9.5,654
+Mid Morning,Friday,Grant Avenue at Columbus Avenue,San Francisco,9.2,654
+Morning,Monday,Powell Street BART,San Francisco,8.1,650
+Afternoon,Friday,Mechanics Plaza (Market at Battery),San Francisco,9.1,648
+Mid Morning,Wednesday,Mountain View Caltrain Station,Mountain View,5.9,646
+Morning,Tuesday,2nd at Folsom,San Francisco,7.5,645
+Mid Morning,Wednesday,Grant Avenue at Columbus Avenue,San Francisco,9.7,637
+Mid Morning,Wednesday,Civic Center BART (7th at Market),San Francisco,9.6,636
+Mid Morning,Friday,Embarcadero at Bryant,San Francisco,8.3,631
+Afternoon,Monday,Post at Kearny,San Francisco,8.7,630
+Mid Morning,Thursday,Market at 10th,San Francisco,9.9,630
+Morning,Tuesday,2nd at South Park,San Francisco,9.2,623
+Mid Morning,Thursday,Mountain View Caltrain Station,Mountain View,5.3,621
+Mid Morning,Monday,Grant Avenue at Columbus Avenue,San Francisco,9.8,621
+Mid Morning,Friday,Market at 10th,San Francisco,9.3,620
+Morning,Friday,Powell Street BART,San Francisco,7.4,617
+Morning,Wednesday,Spear at Folsom,San Francisco,8.9,617
+Morning,Thursday,2nd at South Park,San Francisco,7.4,616
+Afternoon,Wednesday,Post at Kearny,San Francisco,10.1,615
+Mid Morning,Thursday,Embarcadero at Bryant,San Francisco,8.3,613
+Mid Morning,Tuesday,Grant Avenue at Columbus Avenue,San Francisco,9.1,612
+Morning,Monday,Spear at Folsom,San Francisco,9.2,606
+Morning,Thursday,Spear at Folsom,San Francisco,8.5,606
+Afternoon,Thursday,Post at Kearny,San Francisco,8.7,605
+Mid Morning,Monday,Mountain View Caltrain Station,Mountain View,6.4,604
+Afternoon,Friday,Beale at Market,San Francisco,9.9,603
+Morning,Monday,Powell at Post (Union Square),San Francisco,7.7,600
+Morning,Friday,Beale at Market,San Francisco,6.9,596
+Mid Morning,Monday,Powell Street BART,San Francisco,7.9,595
+Mid Morning,Wednesday,Market at 10th,San Francisco,10.3,589
+Morning,Thursday,2nd at Folsom,San Francisco,6.7,587
+Mid Morning,Monday,Civic Center BART (7th at Market),San Francisco,10.3,582
+Mid Morning,Monday,Embarcadero at Bryant,San Francisco,8.7,580
+Morning,Wednesday,Golden Gate at Polk,San Francisco,11.6,580
+Morning,Thursday,Golden Gate at Polk,San Francisco,10.3,579
+Afternoon,Friday,South Van Ness at Market,San Francisco,11.6,578
+Mid Morning,Friday,Powell Street BART,San Francisco,7.5,574
+Morning,Monday,2nd at South Park,San Francisco,6.8,573
+Afternoon,Friday,Davis at Jackson,San Francisco,14.1,571
+Morning,Tuesday,Embarcadero at Folsom,San Francisco,9.6,567
+Mid Morning,Monday,Market at 10th,San Francisco,9.5,566
+Mid Morning,Thursday,Embarcadero at Sansome,San Francisco,10.3,562
+Mid Morning,Tuesday,Townsend at 7th,San Francisco,11.0,561
+Mid Morning,Tuesday,Embarcadero at Sansome,San Francisco,11.3,559
+Mid Morning,Friday,Civic Center BART (7th at Market),San Francisco,9.6,557
+Mid Morning,Wednesday,Embarcadero at Bryant,San Francisco,8.5,550
+Morning,Tuesday,Golden Gate at Polk,San Francisco,10.3,550
+Morning,Monday,2nd at Folsom,San Francisco,6.5,549
+Mid Morning,Tuesday,Embarcadero at Bryant,San Francisco,8.1,548
+Morning,Tuesday,5th at Howard,San Francisco,8.0,544
+Mid Morning,Friday,Embarcadero at Sansome,San Francisco,11.0,542
+Morning,Friday,Powell at Post (Union Square),San Francisco,7.2,542
+Mid Morning,Wednesday,Embarcadero at Sansome,San Francisco,11.5,540
+Afternoon,Tuesday,Civic Center BART (7th at Market),San Francisco,10.0,536
+Mid Morning,Wednesday,Powell at Post (Union Square),San Francisco,8.0,532
+Mid Morning,Thursday,2nd at South Park,San Francisco,8.1,527
+Morning,Friday,2nd at South Park,San Francisco,6.7,524
+Morning,Friday,2nd at Folsom,San Francisco,6.8,520
+Afternoon,Tuesday,Embarcadero at Bryant,San Francisco,8.2,517
+Mid Morning,Tuesday,Market at 4th,San Francisco,7.9,516
+Morning,Wednesday,Embarcadero at Folsom,San Francisco,8.9,515
+Morning,Friday,Spear at Folsom,San Francisco,9.1,513
+Morning,Monday,Golden Gate at Polk,San Francisco,9.9,510
+Morning,Wednesday,5th at Howard,San Francisco,8.4,509
+Mid Morning,Thursday,Powell at Post (Union Square),San Francisco,9.0,509
+Mid Morning,Thursday,Market at 4th,San Francisco,7.7,506
+Morning,Thursday,5th at Howard,San Francisco,8.2,503
+Mid Morning,Wednesday,Market at 4th,San Francisco,7.9,498
+Morning,Monday,5th at Howard,San Francisco,9.5,497
+Mid Morning,Monday,Townsend at 7th,San Francisco,12.3,497
+Mid Morning,Tuesday,2nd at Folsom,San Francisco,6.4,492
+Mid Morning,Tuesday,2nd at South Park,San Francisco,10.7,492
+Morning,Thursday,Embarcadero at Folsom,San Francisco,9.9,491
+Mid Morning,Friday,2nd at South Park,San Francisco,8.2,491
+Afternoon,Thursday,Embarcadero at Bryant,San Francisco,8.2,490
+Mid Morning,Wednesday,Townsend at 7th,San Francisco,10.0,487
+Mid Morning,Monday,Powell at Post (Union Square),San Francisco,8.6,487
+Mid Morning,Monday,2nd at South Park,San Francisco,8.4,486
+Mid Morning,Friday,Mountain View Caltrain Station,Mountain View,6.0,482
+Mid Morning,Wednesday,2nd at South Park,San Francisco,8.2,480
+Mid Morning,Monday,Embarcadero at Sansome,San Francisco,9.8,479
+Mid Morning,Thursday,Townsend at 7th,San Francisco,10.1,471
+Morning,Tuesday,Market at 4th,San Francisco,8.2,470
+Afternoon,Wednesday,Embarcadero at Bryant,San Francisco,10.5,467
+Mid Morning,Monday,2nd at Folsom,San Francisco,7.5,467
+Mid Morning,Friday,Market at 4th,San Francisco,8.9,465
+Morning,Tuesday,Davis at Jackson,San Francisco,8.2,462
+Morning,Monday,Market at 4th,San Francisco,7.5,459
+Mid Morning,Wednesday,2nd at Folsom,San Francisco,7.4,451
+Morning,Friday,Embarcadero at Folsom,San Francisco,8.2,450
+Mid Morning,Tuesday,Powell at Post (Union Square),San Francisco,8.1,449
+Mid Morning,Tuesday,San Jose Diridon Caltrain Station,San Jose,6.7,448
+Afternoon,Wednesday,Civic Center BART (7th at Market),San Francisco,11.8,448
+Afternoon,Friday,Post at Kearny,San Francisco,9.1,446
+Mid Morning,Wednesday,Golden Gate at Polk,San Francisco,11.2,446
+Morning,Monday,Embarcadero at Folsom,San Francisco,8.3,444
+Mid Morning,Wednesday,San Jose Diridon Caltrain Station,San Jose,30.2,440
+Mid Morning,Monday,San Jose Diridon Caltrain Station,San Jose,6.8,440
+Mid Morning,Monday,Market at 4th,San Francisco,7.7,437
+Afternoon,Thursday,Civic Center BART (7th at Market),San Francisco,9.3,434
+Morning,Wednesday,Market at 4th,San Francisco,7.5,433
+Morning,Friday,5th at Howard,San Francisco,9.2,432
+Morning,Friday,Golden Gate at Polk,San Francisco,10.8,430
+Morning,Wednesday,Howard at 2nd,San Francisco,7.1,425
+Afternoon,Monday,Embarcadero at Bryant,San Francisco,10.2,424
+Mid Morning,Friday,Townsend at 7th,San Francisco,12.0,424
+Mid Morning,Tuesday,South Van Ness at Market,San Francisco,13.6,421
+Mid Morning,Thursday,Spear at Folsom,San Francisco,8.5,420
+Afternoon,Monday,Civic Center BART (7th at Market),San Francisco,8.8,418
+Mid Morning,Thursday,San Jose Diridon Caltrain Station,San Jose,7.9,417
+Morning,Monday,Mountain View Caltrain Station,Mountain View,5.5,416
+Mid Morning,Thursday,2nd at Folsom,San Francisco,7.1,415
+Morning,Tuesday,Mountain View Caltrain Station,Mountain View,5.4,413
+Morning,Monday,Howard at 2nd,San Francisco,7.0,412
+Mid Morning,Tuesday,Golden Gate at Polk,San Francisco,11.3,409
+Afternoon,Tuesday,Mountain View City Hall,Mountain View,4.3,406
+Afternoon,Friday,Embarcadero at Bryant,San Francisco,8.7,406
+Mid Morning,Friday,2nd at Folsom,San Francisco,6.9,405
+Mid Morning,Thursday,South Van Ness at Market,San Francisco,11.5,405
+Mid Morning,Wednesday,Howard at 2nd,San Francisco,8.2,401
+Morning,Thursday,Market at 4th,San Francisco,7.4,401
+Morning,Thursday,Davis at Jackson,San Francisco,8.5,400
+Mid Morning,Tuesday,Spear at Folsom,San Francisco,8.7,399
+Mid Morning,Wednesday,South Van Ness at Market,San Francisco,12.1,399
+Mid Morning,Wednesday,Mechanics Plaza (Market at Battery),San Francisco,7.4,399
+Afternoon,Tuesday,Mountain View Caltrain Station,Mountain View,10.0,393
+Mid Morning,Thursday,Mechanics Plaza (Market at Battery),San Francisco,9.2,392
+Mid Morning,Friday,Powell at Post (Union Square),San Francisco,9.1,390
+Afternoon,Friday,Civic Center BART (7th at Market),San Francisco,9.3,387
+Morning,Thursday,Mechanics Plaza (Market at Battery),San Francisco,8.2,386
+Mid Morning,Monday,Golden Gate at Polk,San Francisco,12.9,385
+Mid Morning,Monday,Mechanics Plaza (Market at Battery),San Francisco,7.3,383
+Morning,Tuesday,Broadway St at Battery St,San Francisco,9.5,383
+Mid Morning,Tuesday,Howard at 2nd,San Francisco,6.4,382
+Mid Morning,Thursday,Howard at 2nd,San Francisco,10.5,381
+Mid Morning,Thursday,Golden Gate at Polk,San Francisco,11.7,379
+Mid Morning,Friday,South Van Ness at Market,San Francisco,11.3,379
+Mid Morning,Friday,Mechanics Plaza (Market at Battery),San Francisco,7.2,378
+Mid Morning,Wednesday,Spear at Folsom,San Francisco,10.4,377
+Mid Morning,Tuesday,5th at Howard,San Francisco,7.1,376
+Mid Morning,Wednesday,5th at Howard,San Francisco,10.3,375
+Afternoon,Monday,Mountain View City Hall,Mountain View,6.9,373
+Mid Morning,Thursday,Davis at Jackson,San Francisco,8.1,373
+Mid Morning,Friday,Spear at Folsom,San Francisco,10.5,372
+Morning,Thursday,Howard at 2nd,San Francisco,7.1,372
+Morning,Monday,Davis at Jackson,San Francisco,8.9,371
+Morning,Tuesday,Howard at 2nd,San Francisco,7.0,366
+Mid Morning,Monday,Howard at 2nd,San Francisco,7.1,366
+Mid Morning,Thursday,5th at Howard,San Francisco,7.4,364
+Afternoon,Monday,Mountain View Caltrain Station,Mountain View,7.0,363
+Morning,Wednesday,Davis at Jackson,San Francisco,10.1,361
+Morning,Friday,Market at 4th,San Francisco,9.0,358
+Mid Morning,Monday,Spear at Folsom,San Francisco,10.2,357
+Afternoon,Wednesday,Mountain View Caltrain Station,Mountain View,7.3,356
+Morning,Wednesday,Mountain View Caltrain Station,Mountain View,5.8,353
+Afternoon,Wednesday,Mountain View City Hall,Mountain View,4.3,351
+Afternoon,Thursday,Grant Avenue at Columbus Avenue,San Francisco,9.8,351
+Mid Morning,Friday,5th at Howard,San Francisco,7.5,343
+Afternoon,Friday,Grant Avenue at Columbus Avenue,San Francisco,11.5,343
+Afternoon,Thursday,Mountain View Caltrain Station,Mountain View,10.2,342
+Morning,Friday,Davis at Jackson,San Francisco,8.3,341
+Morning,Thursday,Mountain View Caltrain Station,Mountain View,5.7,339
+Afternoon,Thursday,Mountain View City Hall,Mountain View,4.6,338
+Afternoon,Wednesday,Santa Clara at Almaden,San Jose,5.0,338
+Mid Morning,Friday,Golden Gate at Polk,San Francisco,11.6,338
+Mid Morning,Friday,San Jose Diridon Caltrain Station,San Jose,6.6,336
+Afternoon,Wednesday,Grant Avenue at Columbus Avenue,San Francisco,10.1,335
+Mid Morning,Monday,5th at Howard,San Francisco,7.8,333
+Mid Morning,Monday,South Van Ness at Market,San Francisco,11.0,333
+Mid Morning,Wednesday,Embarcadero at Folsom,San Francisco,7.8,332
+Morning,Friday,Mountain View Caltrain Station,Mountain View,7.1,327
+Morning,Wednesday,Broadway St at Battery St,San Francisco,9.8,326
+Morning,Wednesday,Mechanics Plaza (Market at Battery),San Francisco,7.7,324
+Afternoon,Tuesday,Santa Clara at Almaden,San Jose,4.8,321
+Mid Morning,Tuesday,Embarcadero at Folsom,San Francisco,8.5,317
+Morning,Monday,Broadway St at Battery St,San Francisco,9.0,317
+Morning,Friday,Howard at 2nd,San Francisco,7.5,315
+Mid Morning,Tuesday,Mechanics Plaza (Market at Battery),San Francisco,8.6,315
+Mid Morning,Friday,Howard at 2nd,San Francisco,7.0,314
+Morning,Friday,Mechanics Plaza (Market at Battery),San Francisco,7.6,307
+Afternoon,Wednesday,Powell at Post (Union Square),San Francisco,8.9,305
+Afternoon,Tuesday,Powell at Post (Union Square),San Francisco,9.0,303
+Morning,Friday,Broadway St at Battery St,San Francisco,11.6,303
+Mid Morning,Wednesday,Broadway St at Battery St,San Francisco,9.7,303
+Mid Morning,Friday,Embarcadero at Folsom,San Francisco,7.6,302
+Morning,Thursday,Broadway St at Battery St,San Francisco,8.9,301
+Mid Morning,Monday,Embarcadero at Folsom,San Francisco,7.3,296
+Afternoon,Tuesday,Grant Avenue at Columbus Avenue,San Francisco,10.1,296
+Afternoon,Tuesday,Golden Gate at Polk,San Francisco,14.8,295
+Afternoon,Monday,Grant Avenue at Columbus Avenue,San Francisco,15.2,292
+Mid Morning,Wednesday,Davis at Jackson,San Francisco,8.6,290
+Afternoon,Monday,Castro Street and El Camino Real,Mountain View,5.3,288
+Morning,Wednesday,San Francisco City Hall,San Francisco,11.0,286
+Afternoon,Monday,Santa Clara at Almaden,San Jose,8.0,285
+Morning,Tuesday,Mechanics Plaza (Market at Battery),San Francisco,7.4,285
+Mid Morning,Tuesday,Broadway St at Battery St,San Francisco,8.4,285
+Mid Morning,Friday,Broadway St at Battery St,San Francisco,6.5,283
+Afternoon,Friday,Mountain View City Hall,Mountain View,5.1,281
+Mid Morning,Friday,Davis at Jackson,San Francisco,11.5,280
+Morning,Tuesday,Commercial at Montgomery,San Francisco,6.9,280
+Mid Morning,Tuesday,Davis at Jackson,San Francisco,8.5,279
+Mid Morning,Thursday,Embarcadero at Folsom,San Francisco,7.5,278
+Afternoon,Wednesday,Golden Gate at Polk,San Francisco,12.2,275
+Afternoon,Tuesday,Castro Street and El Camino Real,Mountain View,7.1,271
+Afternoon,Thursday,Powell at Post (Union Square),San Francisco,11.0,271
+Mid Morning,Monday,Davis at Jackson,San Francisco,8.6,270
+Afternoon,Monday,Golden Gate at Polk,San Francisco,11.7,270
+Morning,Tuesday,San Francisco City Hall,San Francisco,10.5,267
+Afternoon,Wednesday,Castro Street and El Camino Real,Mountain View,6.2,266
+Morning,Wednesday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,6.6,266
+Mid Morning,Monday,Broadway St at Battery St,San Francisco,6.7,265
+Mid Morning,Thursday,Broadway St at Battery St,San Francisco,6.6,264
+Morning,Monday,Mechanics Plaza (Market at Battery),San Francisco,7.2,261
+Morning,Monday,Commercial at Montgomery,San Francisco,6.8,259
+Morning,Thursday,Commercial at Montgomery,San Francisco,7.6,259
+Afternoon,Monday,Powell at Post (Union Square),San Francisco,8.4,259
+Morning,Thursday,San Francisco City Hall,San Francisco,10.6,256
+Afternoon,Thursday,Santa Clara at Almaden,San Jose,4.9,256
+Afternoon,Friday,Mountain View Caltrain Station,Mountain View,7.3,255
+Afternoon,Thursday,Golden Gate at Polk,San Francisco,12.0,255
+Morning,Monday,San Francisco City Hall,San Francisco,11.3,252
+Morning,Tuesday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,8.1,251
+Mid Morning,Tuesday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,7.8,246
+Afternoon,Tuesday,Washington at Kearny,San Francisco,11.6,242
+Morning,Tuesday,Ryland Park,San Jose,9.3,241
+Afternoon,Thursday,Castro Street and El Camino Real,Mountain View,9.3,234
+Afternoon,Friday,Golden Gate at Polk,San Francisco,12.6,234
+Morning,Wednesday,Ryland Park,San Jose,8.9,233
+Morning,Monday,Ryland Park,San Jose,9.1,229
+Afternoon,Monday,Washington at Kearny,San Francisco,9.3,229
+Mid Morning,Thursday,Commercial at Montgomery,San Francisco,8.2,228
+Afternoon,Friday,Santa Clara at Almaden,San Jose,6.6,227
+Morning,Monday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,6.3,227
+Morning,Friday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,8.2,227
+Afternoon,Friday,Powell at Post (Union Square),San Francisco,10.9,227
+Morning,Thursday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,6.3,226
+Morning,Wednesday,Commercial at Montgomery,San Francisco,7.0,225
+Mid Morning,Tuesday,Commercial at Montgomery,San Francisco,10.4,223
+Morning,Tuesday,Palo Alto Caltrain Station,Palo Alto,19.3,221
+Afternoon,Wednesday,Washington at Kearny,San Francisco,10.5,221
+Mid Morning,Thursday,Washington at Kearny,San Francisco,10.7,219
+Morning,Friday,San Francisco City Hall,San Francisco,10.8,216
+Morning,Friday,Commercial at Montgomery,San Francisco,6.9,213
+Mid Morning,Friday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,8.2,212
+Morning,Thursday,Palo Alto Caltrain Station,Palo Alto,11.2,211
+Morning,Thursday,Ryland Park,San Jose,9.2,210
+Mid Morning,Wednesday,Commercial at Montgomery,San Francisco,8.1,210
+Mid Morning,Friday,Commercial at Montgomery,San Francisco,8.1,209
+Mid Morning,Wednesday,Washington at Kearny,San Francisco,10.9,209
+Morning,Tuesday,Evelyn Park and Ride,Mountain View,5.0,206
+Afternoon,Tuesday,San Pedro Square,San Jose,6.9,201
+Mid Morning,Wednesday,Clay at Battery,San Francisco,9.7,201
+Morning,Wednesday,Palo Alto Caltrain Station,Palo Alto,10.8,200
+Mid Morning,Tuesday,Washington at Kearny,San Francisco,10.5,200
+Mid Morning,Monday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,7.9,196
+Mid Morning,Friday,Clay at Battery,San Francisco,8.8,194
+Morning,Monday,Evelyn Park and Ride,Mountain View,4.3,193
+Morning,Monday,Palo Alto Caltrain Station,Palo Alto,10.6,192
+Mid Morning,Thursday,Clay at Battery,San Francisco,8.9,192
+Afternoon,Friday,Washington at Kearny,San Francisco,10.2,192
+Mid Morning,Monday,Commercial at Montgomery,San Francisco,14.4,189
+Afternoon,Thursday,Washington at Kearny,San Francisco,9.8,189
+Mid Morning,Friday,Washington at Kearny,San Francisco,9.8,188
+Morning,Thursday,Redwood City Caltrain Station,Redwood City,11.1,187
+Mid Morning,Wednesday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,7.9,186
+Morning,Wednesday,Redwood City Caltrain Station,Redwood City,11.2,185
+Mid Morning,Tuesday,Clay at Battery,San Francisco,9.9,185
+Morning,Wednesday,Evelyn Park and Ride,Mountain View,4.3,184
+Morning,Tuesday,Redwood City Caltrain Station,Redwood City,9.9,183
+Morning,Friday,Ryland Park,San Jose,9.0,183
+Mid Morning,Monday,Clay at Battery,San Francisco,8.1,183
+Mid Morning,Thursday,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco,9.4,183
+Morning,Thursday,Evelyn Park and Ride,Mountain View,5.6,182
+Morning,Thursday,Santa Clara at Almaden,San Jose,5.6,181
+Morning,Tuesday,Clay at Battery,San Francisco,9.6,176
+Mid Morning,Monday,Washington at Kearny,San Francisco,10.0,176
+Mid Morning,Wednesday,Post at Kearny,San Francisco,7.2,174
+Afternoon,Friday,San Pedro Square,San Jose,8.0,172
+Morning,Wednesday,Japantown,San Jose,13.1,170
+Morning,Thursday,Clay at Battery,San Francisco,8.9,170
+Morning,Tuesday,San Antonio Caltrain Station,Mountain View,4.7,168
+Morning,Tuesday,Japantown,San Jose,13.3,168
+Afternoon,Thursday,San Pedro Square,San Jose,7.1,167
+Afternoon,Tuesday,San Antonio Shopping Center,Mountain View,5.4,165
+Morning,Tuesday,Washington at Kearny,San Francisco,10.9,164
+Morning,Monday,Redwood City Caltrain Station,Redwood City,12.6,162
+Afternoon,Friday,Castro Street and El Camino Real,Mountain View,6.1,162
+Afternoon,Tuesday,St James Park,San Jose,7.4,161
+Morning,Thursday,Japantown,San Jose,13.1,160
+Morning,Wednesday,Clay at Battery,San Francisco,9.7,160
+Morning,Friday,Redwood City Caltrain Station,Redwood City,17.5,159
+Morning,Tuesday,Santa Clara at Almaden,San Jose,5.8,158
+Afternoon,Tuesday,San Francisco City Hall,San Francisco,17.1,155
+Morning,Friday,Clay at Battery,San Francisco,8.8,155
+Afternoon,Monday,San Antonio Shopping Center,Mountain View,6.2,154
+Afternoon,Wednesday,St James Park,San Jose,7.9,154
+Morning,Monday,Japantown,San Jose,14.8,154
+Mid Morning,Wednesday,San Francisco City Hall,San Francisco,11.0,151
+Afternoon,Tuesday,Cowper at University,Palo Alto,13.5,151
+Morning,Wednesday,San Antonio Caltrain Station,Mountain View,5.1,151
+Mid Morning,Thursday,Post at Kearny,San Francisco,6.6,151
+Mid Morning,Thursday,San Francisco City Hall,San Francisco,10.2,150
+Afternoon,Monday,Cowper at University,Palo Alto,4.5,148
+Morning,Monday,San Antonio Caltrain Station,Mountain View,5.0,148
+Afternoon,Wednesday,San Pedro Square,San Jose,6.8,147
+Afternoon,Wednesday,San Antonio Shopping Center,Mountain View,6.0,146
+Mid Morning,Friday,Post at Kearny,San Francisco,6.3,146
+Mid Morning,Tuesday,San Francisco City Hall,San Francisco,13.7,145
+Morning,Friday,Palo Alto Caltrain Station,Palo Alto,9.5,143
+Morning,Thursday,Washington at Kearny,San Francisco,11.3,142
+Afternoon,Monday,San Pedro Square,San Jose,6.7,141
+Morning,Friday,Washington at Kearny,San Francisco,10.4,141
+Afternoon,Wednesday,San Francisco City Hall,San Francisco,12.1,140
+Afternoon,Thursday,San Antonio Shopping Center,Mountain View,6.4,140
+Afternoon,Wednesday,Cowper at University,Palo Alto,4.6,139
+Afternoon,Wednesday,Adobe on Almaden,San Jose,6.6,138
+Morning,Monday,Clay at Battery,San Francisco,8.8,138
+Afternoon,Thursday,San Francisco City Hall,San Francisco,10.3,137
+Afternoon,Monday,St James Park,San Jose,7.4,136
+Afternoon,Tuesday,Adobe on Almaden,San Jose,6.2,135
+Morning,Friday,Santa Clara at Almaden,San Jose,5.8,135
+Mid Morning,Monday,Post at Kearny,San Francisco,7.1,133
+Morning,Wednesday,Santa Clara at Almaden,San Jose,5.6,132
+Afternoon,Monday,Adobe on Almaden,San Jose,5.6,132
+Mid Morning,Friday,San Francisco City Hall,San Francisco,12.9,131
+Morning,Wednesday,Paseo de San Antonio,San Jose,7.7,131
+Morning,Monday,Santa Clara at Almaden,San Jose,6.6,131
+Mid Morning,Tuesday,Palo Alto Caltrain Station,Palo Alto,6.5,130
+Afternoon,Thursday,St James Park,San Jose,7.4,128
+Morning,Friday,Japantown,San Jose,13.5,127
+Morning,Wednesday,Washington at Kearny,San Francisco,12.0,126
+Mid Morning,Tuesday,Post at Kearny,San Francisco,6.3,126
+Afternoon,Tuesday,Santa Clara County Civic Center,San Jose,13.1,125
+Afternoon,Tuesday,Palo Alto Caltrain Station,Palo Alto,9.3,124
+Morning,Thursday,SJSU - San Salvador at 9th,San Jose,27.8,124
+Afternoon,Wednesday,Arena Green / SAP Center,San Jose,6.7,120
+Afternoon,Friday,San Francisco City Hall,San Francisco,12.3,119
+Afternoon,Thursday,Adobe on Almaden,San Jose,19.8,117
+Morning,Thursday,Paseo de San Antonio,San Jose,7.8,117
+Mid Morning,Monday,San Francisco City Hall,San Francisco,11.4,117
+Morning,Tuesday,Paseo de San Antonio,San Jose,8.5,117
+Morning,Tuesday,SJSU - San Salvador at 9th,San Jose,9.0,117
+Mid Morning,Tuesday,San Antonio Caltrain Station,Mountain View,5.2,117
+Afternoon,Tuesday,Post at Kearney,San Francisco,8.9,117
+Afternoon,Monday,San Francisco City Hall,San Francisco,12.0,116
+Afternoon,Wednesday,Santa Clara County Civic Center,San Jose,13.1,116
+Afternoon,Wednesday,Palo Alto Caltrain Station,Palo Alto,18.1,115
+Morning,Monday,Mountain View City Hall,Mountain View,4.2,115
+Afternoon,Monday,Santa Clara County Civic Center,San Jose,13.6,115
+Morning,Monday,Washington at Kearny,San Francisco,11.6,115
+Afternoon,Monday,Palo Alto Caltrain Station,Palo Alto,10.5,114
+Afternoon,Tuesday,MLK Library,San Jose,8.2,114
+Mid Morning,Wednesday,San Antonio Caltrain Station,Mountain View,5.0,113
+Afternoon,Thursday,Paseo de San Antonio,San Jose,6.8,112
+Mid Morning,Monday,San Antonio Caltrain Station,Mountain View,5.5,112
+Morning,Tuesday,Rengstorff Avenue / California Street,Mountain View,9.5,112
+Morning,Friday,Paseo de San Antonio,San Jose,8.4,111
+Morning,Friday,Evelyn Park and Ride,Mountain View,4.4,111
+Afternoon,Thursday,Post at Kearney,San Francisco,9.2,110
+Afternoon,Wednesday,Post at Kearney,San Francisco,9.5,109
+Morning,Monday,Post at Kearny,San Francisco,7.0,108
+Mid Morning,Wednesday,Palo Alto Caltrain Station,Palo Alto,5.4,107
+Mid Morning,Thursday,San Antonio Caltrain Station,Mountain View,5.8,107
+Mid Morning,Monday,Embarcadero at Vallejo,San Francisco,8.2,107
+Morning,Wednesday,Mountain View City Hall,Mountain View,4.4,106
+Mid Morning,Thursday,Palo Alto Caltrain Station,Palo Alto,6.8,106
+Morning,Monday,Paseo de San Antonio,San Jose,7.6,106
+Morning,Wednesday,Post at Kearny,San Francisco,7.0,106
+Afternoon,Friday,Post at Kearney,San Francisco,8.7,105
+Afternoon,Thursday,Cowper at University,Palo Alto,5.9,104
+Afternoon,Thursday,Santa Clara County Civic Center,San Jose,13.5,104
+Afternoon,Tuesday,San Jose City Hall,San Jose,7.0,103
+Morning,Thursday,San Antonio Caltrain Station,Mountain View,4.8,103
+Morning,Monday,SJSU - San Salvador at 9th,San Jose,12.2,103
+Afternoon,Monday,Post at Kearney,San Francisco,8.6,103
+Afternoon,Wednesday,San Jose City Hall,San Jose,7.2,102
+Morning,Wednesday,SJSU - San Salvador at 9th,San Jose,10.0,102
+Morning,Wednesday,San Salvador at 1st,San Jose,6.8,101
+Afternoon,Thursday,Palo Alto Caltrain Station,Palo Alto,8.7,101
+Afternoon,Monday,San Jose City Hall,San Jose,7.2,100
+Mid Morning,Monday,Palo Alto Caltrain Station,Palo Alto,16.0,100
+Morning,Friday,San Antonio Caltrain Station,Mountain View,5.1,100
+Afternoon,Tuesday,San Antonio Caltrain Station,Mountain View,7.2,99
+Morning,Thursday,Mountain View City Hall,Mountain View,4.3,98
+Afternoon,Friday,Paseo de San Antonio,San Jose,6.9,97
+Afternoon,Friday,Cowper at University,Palo Alto,34.6,97
+Afternoon,Friday,St James Park,San Jose,7.3,97
+Morning,Friday,SJSU - San Salvador at 9th,San Jose,8.9,97
+Morning,Tuesday,MLK Library,San Jose,9.5,97
+Afternoon,Wednesday,Paseo de San Antonio,San Jose,15.6,96
+Morning,Tuesday,Post at Kearny,San Francisco,8.3,96
+Morning,Thursday,Castro Street and El Camino Real,Mountain View,5.3,95
+Morning,Thursday,Rengstorff Avenue / California Street,Mountain View,8.2,95
+Afternoon,Friday,Santa Clara County Civic Center,San Jose,13.8,95
+Morning,Tuesday,San Salvador at 1st,San Jose,6.0,94
+Morning,Tuesday,Castro Street and El Camino Real,Mountain View,5.2,94
+Morning,Monday,Castro Street and El Camino Real,Mountain View,5.6,93
+Afternoon,Monday,San Antonio Caltrain Station,Mountain View,7.5,93
+Afternoon,Tuesday,Paseo de San Antonio,San Jose,16.7,92
+Morning,Monday,San Pedro Square,San Jose,7.9,92
+Morning,Wednesday,Rengstorff Avenue / California Street,Mountain View,10.3,92
+Morning,Thursday,MLK Library,San Jose,9.6,92
+Afternoon,Monday,Redwood City Caltrain Station,Redwood City,6.8,91
+Morning,Wednesday,MLK Library,San Jose,9.9,90
+Afternoon,Thursday,San Jose City Hall,San Jose,6.8,90
+Morning,Friday,Castro Street and El Camino Real,Mountain View,5.7,90
+Morning,Thursday,San Salvador at 1st,San Jose,6.1,90
+Morning,Monday,MLK Library,San Jose,10.8,90
+Morning,Monday,San Salvador at 1st,San Jose,6.2,87
+Morning,Tuesday,Cowper at University,Palo Alto,6.4,86
+Morning,Wednesday,Castro Street and El Camino Real,Mountain View,5.6,86
+Afternoon,Thursday,SJSU 4th at San Carlos,San Jose,7.2,85
+Morning,Tuesday,Mountain View City Hall,Mountain View,4.4,85
+Afternoon,Thursday,Arena Green / SAP Center,San Jose,8.3,85
+Afternoon,Thursday,San Antonio Caltrain Station,Mountain View,7.1,85
+Morning,Thursday,Post at Kearny,San Francisco,7.6,85
+Afternoon,Friday,Adobe on Almaden,San Jose,7.0,83
+Morning,Friday,Post at Kearny,San Francisco,7.5,83
+Afternoon,Thursday,MLK Library,San Jose,9.3,82
+Morning,Wednesday,Cowper at University,Palo Alto,15.0,81
+Mid Morning,Thursday,Santa Clara at Almaden,San Jose,6.0,81
+Morning,Monday,St James Park,San Jose,9.2,81
+Mid Morning,Wednesday,Santa Clara at Almaden,San Jose,4.5,80
+Afternoon,Wednesday,San Antonio Caltrain Station,Mountain View,7.5,79
+Afternoon,Thursday,Redwood City Caltrain Station,Redwood City,5.6,79
+Morning,Wednesday,San Pedro Square,San Jose,7.3,78
+Morning,Monday,Rengstorff Avenue / California Street,Mountain View,8.8,78
+Morning,Tuesday,St James Park,San Jose,7.5,77
+Afternoon,Wednesday,MLK Library,San Jose,9.3,75
+Mid Morning,Friday,Palo Alto Caltrain Station,Palo Alto,5.8,75
+Mid Morning,Wednesday,Embarcadero at Vallejo,San Francisco,7.1,75
+Morning,Friday,Mountain View City Hall,Mountain View,5.5,74
+Morning,Thursday,Cowper at University,Palo Alto,5.6,73
+Morning,Tuesday,San Pedro Square,San Jose,7.3,73
+Morning,Friday,MLK Library,San Jose,9.5,73
+Morning,Friday,Cowper at University,Palo Alto,5.8,72
+Morning,Wednesday,St James Park,San Jose,6.6,72
+Afternoon,Tuesday,Arena Green / SAP Center,San Jose,8.7,72
+Afternoon,Friday,Palo Alto Caltrain Station,Palo Alto,8.5,72
+Morning,Thursday,St James Park,San Jose,7.3,72
+Afternoon,Tuesday,Redwood City Caltrain Station,Redwood City,8.0,72
+Afternoon,Friday,SJSU 4th at San Carlos,San Jose,8.3,71
+Morning,Monday,Cowper at University,Palo Alto,6.0,71
+Afternoon,Friday,Ryland Park,San Jose,7.7,71
+Afternoon,Monday,MLK Library,San Jose,9.3,70
+Afternoon,Friday,San Antonio Shopping Center,Mountain View,6.6,70
+Afternoon,Tuesday,Evelyn Park and Ride,Mountain View,5.8,70
+Morning,Thursday,San Pedro Square,San Jose,7.0,69
+Afternoon,Wednesday,Redwood City Caltrain Station,Redwood City,6.9,69
+Morning,Friday,Rengstorff Avenue / California Street,Mountain View,8.1,69
+Mid Morning,Friday,Embarcadero at Vallejo,San Francisco,7.7,69
+Morning,Tuesday,Embarcadero at Vallejo,San Francisco,7.1,69
+Afternoon,Friday,Redwood City Caltrain Station,Redwood City,5.1,67
+Afternoon,Tuesday,Park at Olive,Palo Alto,15.5,66
+Mid Morning,Monday,San Antonio Shopping Center,Mountain View,5.9,66
+Mid Morning,Tuesday,Embarcadero at Vallejo,San Francisco,15.0,66
+Mid Morning,Thursday,Redwood City Caltrain Station,Redwood City,8.0,65
+Afternoon,Friday,San Jose City Hall,San Jose,7.7,65
+Mid Morning,Friday,San Antonio Caltrain Station,Mountain View,5.5,65
+Afternoon,Monday,SJSU 4th at San Carlos,San Jose,6.7,64
+Afternoon,Monday,Paseo de San Antonio,San Jose,6.7,64
+Afternoon,Monday,Park at Olive,Palo Alto,15.5,64
+Mid Morning,Thursday,Ryland Park,San Jose,9.8,64
+Morning,Friday,San Pedro Square,San Jose,7.5,63
+Afternoon,Tuesday,Stanford in Redwood City,Redwood City,13.6,63
+Afternoon,Friday,MLK Library,San Jose,7.9,62
+Afternoon,Wednesday,Park at Olive,Palo Alto,15.3,62
+Mid Morning,Tuesday,San Antonio Shopping Center,Mountain View,6.0,62
+Afternoon,Friday,San Antonio Caltrain Station,Mountain View,8.1,62
+Afternoon,Thursday,Stanford in Redwood City,Redwood City,13.2,62
+Morning,Friday,San Salvador at 1st,San Jose,5.4,61
+Afternoon,Tuesday,SJSU 4th at San Carlos,San Jose,7.6,61
+Morning,Tuesday,San Jose Civic Center,San Jose,7.4,61
+Afternoon,Monday,Arena Green / SAP Center,San Jose,8.2,60
+Afternoon,Wednesday,Stanford in Redwood City,Redwood City,13.1,60
+Mid Morning,Wednesday,Ryland Park,San Jose,8.9,59
+Afternoon,Wednesday,SJSU 4th at San Carlos,San Jose,6.4,58
+Morning,Thursday,San Jose Civic Center,San Jose,7.1,58
+Morning,Friday,St James Park,San Jose,6.2,58
+Morning,Thursday,Embarcadero at Vallejo,San Francisco,6.7,58
+Mid Morning,Thursday,Embarcadero at Vallejo,San Francisco,7.7,58
+Mid Morning,Wednesday,Redwood City Caltrain Station,Redwood City,7.5,57
+Mid Morning,Tuesday,Santa Clara at Almaden,San Jose,5.5,57
+Afternoon,Monday,Japantown,San Jose,9.2,57
+Afternoon,Wednesday,SJSU - San Salvador at 9th,San Jose,9.6,56
+Mid Morning,Friday,Santa Clara at Almaden,San Jose,6.5,55
+Afternoon,Wednesday,San Salvador at 1st,San Jose,9.5,55
+Morning,Wednesday,San Jose Civic Center,San Jose,7.3,55
+Afternoon,Thursday,Evelyn Park and Ride,Mountain View,5.6,55
+Afternoon,Friday,Arena Green / SAP Center,San Jose,9.0,54
+Morning,Monday,San Jose Civic Center,San Jose,6.9,54
+Mid Morning,Monday,Ryland Park,San Jose,8.6,54
+Mid Morning,Monday,Santa Clara at Almaden,San Jose,6.5,53
+Afternoon,Friday,San Salvador at 1st,San Jose,7.7,52
+Mid Morning,Tuesday,Mountain View City Hall,Mountain View,5.5,52
+Afternoon,Monday,Stanford in Redwood City,Redwood City,38.9,52
+Afternoon,Thursday,Park at Olive,Palo Alto,15.8,51
+Afternoon,Wednesday,California Ave Caltrain Station,Palo Alto,14.8,51
+Afternoon,Tuesday,Japantown,San Jose,11.5,51
+Morning,Wednesday,Embarcadero at Vallejo,San Francisco,6.7,51
+Mid Morning,Thursday,San Antonio Shopping Center,Mountain View,5.8,50
+Mid Morning,Friday,Mountain View City Hall,Mountain View,5.8,48
+Afternoon,Monday,California Ave Caltrain Station,Palo Alto,15.4,48
+Mid Morning,Monday,Redwood City Caltrain Station,Redwood City,6.5,47
+Mid Morning,Wednesday,Post at Kearney,San Francisco,7.4,47
+Mid Morning,Friday,Redwood City Caltrain Station,Redwood City,7.9,46
+Mid Morning,Wednesday,San Antonio Shopping Center,Mountain View,6.4,46
+Afternoon,Tuesday,Washington at Kearney,San Francisco,10.3,46
+Morning,Friday,Embarcadero at Vallejo,San Francisco,8.7,46
+Afternoon,Thursday,San Salvador at 1st,San Jose,7.3,45
+Mid Morning,Friday,Ryland Park,San Jose,9.4,45
+Afternoon,Friday,California Ave Caltrain Station,Palo Alto,45.2,44
+Afternoon,Monday,San Salvador at 1st,San Jose,36.5,44
+Afternoon,Tuesday,San Salvador at 1st,San Jose,9.8,44
+Afternoon,Friday,Evelyn Park and Ride,Mountain View,6.0,44
+Afternoon,Wednesday,Japantown,San Jose,8.2,44
+Mid Morning,Tuesday,Ryland Park,San Jose,9.4,44
+Afternoon,Thursday,SJSU - San Salvador at 9th,San Jose,11.0,44
+Mid Morning,Tuesday,Post at Kearney,San Francisco,6.4,44
+Afternoon,Monday,SJSU - San Salvador at 9th,San Jose,11.2,43
+Morning,Thursday,Washington at Kearney,San Francisco,11.2,43
+Morning,Monday,Embarcadero at Vallejo,San Francisco,5.5,43
+Afternoon,Friday,Park at Olive,Palo Alto,16.2,42
+Mid Morning,Monday,Mountain View City Hall,Mountain View,5.0,42
+Afternoon,Thursday,California Ave Caltrain Station,Palo Alto,13.9,41
+Morning,Friday,San Jose Civic Center,San Jose,7.8,41
+Afternoon,Thursday,Ryland Park,San Jose,7.5,41
+Afternoon,Monday,Evelyn Park and Ride,Mountain View,27.4,41
+Afternoon,Thursday,Japantown,San Jose,10.0,41
+Morning,Thursday,San Antonio Shopping Center,Mountain View,4.7,40
+Mid Morning,Friday,Post at Kearney,San Francisco,6.5,39
+Afternoon,Tuesday,SJSU - San Salvador at 9th,San Jose,11.5,38
+Afternoon,Wednesday,Evelyn Park and Ride,Mountain View,5.4,38
+Mid Morning,Thursday,SJSU - San Salvador at 9th,San Jose,7.8,38
+Afternoon,Thursday,Washington at Kearney,San Francisco,8.0,37
+Afternoon,Monday,Washington at Kearney,San Francisco,8.2,37
+Mid Morning,Thursday,Post at Kearney,San Francisco,6.0,37
+Mid Morning,Thursday,Mountain View City Hall,Mountain View,9.4,36
+Morning,Tuesday,Washington at Kearney,San Francisco,10.8,36
+Mid Morning,Tuesday,Redwood City Caltrain Station,Redwood City,5.9,35
+Afternoon,Wednesday,Redwood City Medical Center,Redwood City,6.2,35
+Mid Morning,Wednesday,SJSU - San Salvador at 9th,San Jose,7.6,35
+Morning,Monday,Washington at Kearney,San Francisco,12.4,35
+Mid Morning,Wednesday,San Jose City Hall,San Jose,6.4,34
+Afternoon,Friday,Japantown,San Jose,10.9,34
+Morning,Wednesday,Washington at Kearney,San Francisco,10.7,34
+Mid Morning,Thursday,San Jose City Hall,San Jose,8.2,33
+Afternoon,Friday,Stanford in Redwood City,Redwood City,13.2,33
+Mid Morning,Wednesday,Mountain View City Hall,Mountain View,4.7,32
+Afternoon,Wednesday,Kaiser Hospital,Redwood City,7.7,32
+Afternoon,Tuesday,Ryland Park,San Jose,6.6,32
+Mid Morning,Monday,SJSU - San Salvador at 9th,San Jose,49.7,32
+Afternoon,Thursday,Redwood City Medical Center,Redwood City,131.3,31
+Afternoon,Monday,Redwood City Medical Center,Redwood City,6.6,31
+Mid Morning,Thursday,Cowper at University,Palo Alto,4.6,31
+Morning,Tuesday,San Antonio Shopping Center,Mountain View,5.1,31
+Afternoon,Wednesday,Ryland Park,San Jose,5.9,31
+Mid Morning,Friday,SJSU - San Salvador at 9th,San Jose,7.5,31
+Mid Morning,Thursday,Washington at Kearney,San Francisco,9.4,31
+Mid Morning,Tuesday,Cowper at University,Palo Alto,4.3,30
+Morning,Wednesday,San Antonio Shopping Center,Mountain View,8.5,30
+Afternoon,Wednesday,Washington at Kearney,San Francisco,9.0,30
+Mid Morning,Friday,Washington at Kearney,San Francisco,10.2,30
+Mid Morning,Wednesday,Washington at Kearney,San Francisco,9.6,30
+Mid Morning,Monday,Post at Kearney,San Francisco,6.0,30
+Mid Morning,Tuesday,San Jose City Hall,San Jose,4.4,29
+Mid Morning,Wednesday,Cowper at University,Palo Alto,4.7,29
+Afternoon,Friday,SJSU - San Salvador at 9th,San Jose,9.8,29
+Mid Morning,Tuesday,Paseo de San Antonio,San Jose,7.2,28
+Morning,Monday,San Antonio Shopping Center,Mountain View,5.9,28
+Morning,Friday,San Antonio Shopping Center,Mountain View,5.9,28
+Afternoon,Monday,Kaiser Hospital,Redwood City,8.1,28
+Afternoon,Friday,Washington at Kearney,San Francisco,11.8,28
+Mid Morning,Monday,Cowper at University,Palo Alto,11.1,27
+Afternoon,Tuesday,California Ave Caltrain Station,Palo Alto,16.3,27
+Afternoon,Thursday,San Jose Civic Center,San Jose,7.6,27
+Mid Morning,Friday,Cowper at University,Palo Alto,4.0,26
+Afternoon,Friday,San Jose Civic Center,San Jose,8.3,26
+Mid Morning,Tuesday,SJSU 4th at San Carlos,San Jose,6.0,26
+Mid Morning,Friday,San Antonio Shopping Center,Mountain View,6.7,26
+Morning,Friday,Mezes,Redwood City,5.2,26
+Mid Morning,Monday,San Jose City Hall,San Jose,4.6,25
+Mid Morning,Wednesday,MLK Library,San Jose,8.0,25
+Morning,Monday,San Jose City Hall,San Jose,8.9,25
+Mid Morning,Thursday,SJSU 4th at San Carlos,San Jose,5.6,25
+Afternoon,Monday,San Jose Civic Center,San Jose,6.9,25
+Mid Morning,Thursday,San Salvador at 1st,San Jose,6.6,25
+Mid Morning,Friday,St James Park,San Jose,6.5,25
+Mid Morning,Tuesday,SJSU - San Salvador at 9th,San Jose,11.6,25
+Mid Morning,Monday,San Salvador at 1st,San Jose,5.9,24
+Mid Morning,Friday,Paseo de San Antonio,San Jose,7.2,24
+Mid Morning,Wednesday,Paseo de San Antonio,San Jose,7.2,24
+Mid Morning,Friday,San Pedro Square,San Jose,9.0,24
+Mid Morning,Thursday,Mezes Park,Redwood City,4.6,24
+Afternoon,Wednesday,San Jose Civic Center,San Jose,8.9,24
+Afternoon,Thursday,Kaiser Hospital,Redwood City,8.2,24
+Mid Morning,Tuesday,Washington at Kearney,San Francisco,8.5,24
+Mid Morning,Friday,San Jose City Hall,San Jose,5.1,23
+Morning,Thursday,San Jose City Hall,San Jose,7.9,23
+Mid Morning,Wednesday,SJSU 4th at San Carlos,San Jose,6.9,23
+Mid Morning,Monday,MLK Library,San Jose,9.5,23
+Mid Morning,Thursday,Paseo de San Antonio,San Jose,6.7,23
+Afternoon,Friday,Kaiser Hospital,Redwood City,8.5,23
+Mid Morning,Friday,Japantown,San Jose,10.8,23
+Morning,Tuesday,Post at Kearney,San Francisco,7.1,23
+Mid Morning,Tuesday,MLK Library,San Jose,6.9,22
+Afternoon,Tuesday,University and Emerson,Palo Alto,11.0,22
+Mid Morning,Friday,Mezes Park,Redwood City,4.5,22
+Mid Morning,Wednesday,Mezes Park,Redwood City,4.9,22
+Morning,Tuesday,Mezes Park,Redwood City,4.0,22
+Mid Morning,Friday,MLK Library,San Jose,9.6,21
+Afternoon,Tuesday,Redwood City Medical Center,Redwood City,4.9,21
+Mid Morning,Monday,SJSU 4th at San Carlos,San Jose,7.4,21
+Afternoon,Friday,Redwood City Medical Center,Redwood City,6.5,21
+Morning,Thursday,Mezes,Redwood City,5.1,21
+Mid Morning,Wednesday,Japantown,San Jose,10.9,21
+Afternoon,Thursday,Rengstorff Avenue / California Street,Mountain View,11.2,21
+Mid Morning,Tuesday,Japantown,San Jose,11.6,21
+Morning,Monday,Post at Kearney,San Francisco,5.5,21
+Mid Morning,Monday,Paseo de San Antonio,San Jose,7.3,20
+Mid Morning,Tuesday,San Salvador at 1st,San Jose,5.8,20
+Mid Morning,Wednesday,San Salvador at 1st,San Jose,7.3,20
+Morning,Thursday,Adobe on Almaden,San Jose,252.6,20
+Afternoon,Wednesday,Rengstorff Avenue / California Street,Mountain View,6.8,20
+Mid Morning,Monday,Washington at Kearney,San Francisco,8.1,20
+Morning,Thursday,Post at Kearney,San Francisco,7.0,20
+Morning,Thursday,Mezes Park,Redwood City,4.2,19
+Mid Morning,Monday,Castro Street and El Camino Real,Mountain View,5.8,19
+Mid Morning,Tuesday,St James Park,San Jose,7.1,18
+Mid Morning,Monday,Mezes Park,Redwood City,4.3,18
+Morning,Monday,Mezes,Redwood City,4.9,18
+Mid Morning,Thursday,MLK Library,San Jose,8.9,18
+Mid Morning,Thursday,San Pedro Square,San Jose,7.1,18
+Mid Morning,Thursday,Rengstorff Avenue / California Street,Mountain View,9.6,18
+Mid Morning,Friday,Rengstorff Avenue / California Street,Mountain View,9.4,18
+Mid Morning,Monday,Japantown,San Jose,11.2,18
+Morning,Tuesday,San Jose City Hall,San Jose,8.7,17
+Afternoon,Friday,University and Emerson,Palo Alto,13.2,17
+Afternoon,Monday,University and Emerson,Palo Alto,13.2,17
+Afternoon,Monday,Ryland Park,San Jose,7.9,17
+Morning,Friday,Washington at Kearney,San Francisco,12.9,17
+Afternoon,Wednesday,University and Emerson,Palo Alto,14.9,16
+Afternoon,Tuesday,San Jose Civic Center,San Jose,10.0,16
+Mid Morning,Tuesday,Mezes Park,Redwood City,5.9,16
+Morning,Tuesday,Mezes,Redwood City,5.1,16
+Afternoon,Tuesday,Rengstorff Avenue / California Street,Mountain View,13.3,16
+Mid Morning,Thursday,Japantown,San Jose,9.9,16
+Mid Morning,Monday,Rengstorff Avenue / California Street,Mountain View,10.5,16
+Mid Morning,Monday,San Jose Civic Center,San Jose,6.3,15
+Afternoon,Thursday,University and Emerson,Palo Alto,10.7,15
+Mid Morning,Monday,California Ave Caltrain Station,Palo Alto,12.7,15
+Mid Morning,Tuesday,San Pedro Square,San Jose,8.1,15
+Morning,Wednesday,Mezes Park,Redwood City,4.1,15
+Mid Morning,Tuesday,Rengstorff Avenue / California Street,Mountain View,13.1,15
+Morning,Friday,Post at Kearney,San Francisco,6.7,15
+Mid Morning,Wednesday,Castro Street and El Camino Real,Mountain View,6.4,14
+Morning,Friday,SJSU 4th at San Carlos,San Jose,6.7,14
+Mid Morning,Friday,Castro Street and El Camino Real,Mountain View,6.1,14
+Mid Morning,Friday,SJSU 4th at San Carlos,San Jose,6.6,14
+Morning,Friday,Mezes Park,Redwood City,3.9,14
+Morning,Monday,Mezes Park,Redwood City,4.3,14
+Morning,Tuesday,California Ave Caltrain Station,Palo Alto,14.4,14
+Mid Morning,Thursday,St James Park,San Jose,5.8,14
+Mid Morning,Wednesday,University and Emerson,Palo Alto,10.6,14
+Morning,Tuesday,Adobe on Almaden,San Jose,7.4,14
+Morning,Wednesday,Post at Kearney,San Francisco,7.4,14
+Morning,Wednesday,SJSU 4th at San Carlos,San Jose,7.8,13
+Mid Morning,Friday,Evelyn Park and Ride,Mountain View,12.8,13
+Afternoon,Tuesday,Mezes Park,Redwood City,4.5,13
+Morning,Wednesday,California Ave Caltrain Station,Palo Alto,13.8,13
+Mid Morning,Monday,San Pedro Square,San Jose,9.2,13
+Mid Morning,Wednesday,Rengstorff Avenue / California Street,Mountain View,11.1,13
+Morning,Thursday,California Ave Caltrain Station,Palo Alto,14.5,12
+Mid Morning,Thursday,California Ave Caltrain Station,Palo Alto,12.9,12
+Mid Morning,Tuesday,California Ave Caltrain Station,Palo Alto,11.4,12
+Mid Morning,Wednesday,California Ave Caltrain Station,Palo Alto,10.5,11
+Mid Morning,Thursday,University and Emerson,Palo Alto,11.1,11
+Morning,Tuesday,Franklin at Maple,Redwood City,4.1,11
+Afternoon,Tuesday,Redwood City Public Library,Redwood City,5.4,11
+Afternoon,Monday,5th St at Folsom St,San Francisco,6.4,11
+Mid Morning,Wednesday,Evelyn Park and Ride,Mountain View,4.5,11
+Afternoon,Tuesday,5th St at Folsom St,San Francisco,8.6,11
+Afternoon,Monday,Rengstorff Avenue / California Street,Mountain View,11.3,11
+Morning,Wednesday,San Jose City Hall,San Jose,10.9,11
+Morning,Friday,Franklin at Maple,Redwood City,4.0,10
+Morning,Tuesday,SJSU 4th at San Carlos,San Jose,5.7,10
+Mid Morning,Thursday,San Jose Civic Center,San Jose,7.8,10
+Morning,Wednesday,University and Emerson,Palo Alto,11.6,10
+Afternoon,Tuesday,Kaiser Hospital,Redwood City,8.0,10
+Morning,Monday,Adobe on Almaden,San Jose,6.9,10
+Mid Morning,Monday,St James Park,San Jose,7.2,10
+Afternoon,Friday,Rengstorff Avenue / California Street,Mountain View,11.3,10
+Morning,Thursday,Franklin at Maple,Redwood City,4.0,9
+Morning,Friday,San Jose City Hall,San Jose,6.6,9
+Afternoon,Thursday,Mezes Park,Redwood City,4.7,9
+Mid Morning,Thursday,Evelyn Park and Ride,Mountain View,5.0,9
+Afternoon,Friday,Mezes Park,Redwood City,4.4,9
+Afternoon,Wednesday,Mezes Park,Redwood City,7.0,9
+Morning,Tuesday,Arena Green / SAP Center,San Jose,6.7,9
+Mid Morning,Thursday,Castro Street and El Camino Real,Mountain View,6.1,9
+Mid Morning,Friday,San Salvador at 1st,San Jose,7.3,9
+Morning,Monday,California Ave Caltrain Station,Palo Alto,14.3,9
+Afternoon,Monday,Charleston Park/ North Bayshore Area,Mountain View,19.8,9
+Mid Morning,Tuesday,Castro Street and El Camino Real,Mountain View,5.0,8
+Mid Morning,Friday,San Mateo County Center,Redwood City,7.0,8
+Mid Morning,Tuesday,University and Emerson,Palo Alto,12.6,8
+Mid Morning,Wednesday,San Pedro Square,San Jose,7.3,8
+Mid Morning,Tuesday,Evelyn Park and Ride,Mountain View,4.6,8
+Morning,Friday,Arena Green / SAP Center,San Jose,9.8,8
+Afternoon,Wednesday,Redwood City Public Library,Redwood City,6.6,8
+Afternoon,Wednesday,5th St at Folsom St,San Francisco,7.6,8
+Morning,Wednesday,Mezes,Redwood City,6.5,8
+Morning,Friday,Adobe on Almaden,San Jose,5.1,8
+Mid Morning,Monday,Arena Green / SAP Center,San Jose,9.9,8
+Morning,Friday,California Ave Caltrain Station,Palo Alto,14.9,8
+Afternoon,Thursday,Charleston Park/ North Bayshore Area,Mountain View,19.1,8
+Mid Morning,Monday,5th St at Folsom St,San Francisco,6.0,7
+Morning,Monday,Arena Green / SAP Center,San Jose,6.0,7
+Mid Morning,Friday,Arena Green / SAP Center,San Jose,4.7,7
+Mid Morning,Friday,California Ave Caltrain Station,Palo Alto,7.6,7
+Mid Morning,Tuesday,Arena Green / SAP Center,San Jose,12.4,7
+Morning,Tuesday,San Mateo County Center,Redwood City,6.3,7
+Mid Morning,Friday,Adobe on Almaden,San Jose,5.6,7
+Afternoon,Thursday,Franklin at Maple,Redwood City,5.0,7
+Afternoon,Thursday,5th St at Folsom St,San Francisco,7.6,7
+Morning,Tuesday,Stanford in Redwood City,Redwood City,11.1,7
+Mid Morning,Monday,Evelyn Park and Ride,Mountain View,3.7,7
+Mid Morning,Monday,University and Emerson,Palo Alto,12.0,7
+Morning,Monday,Franklin at Maple,Redwood City,4.1,7
+Morning,Monday,University and Emerson,Palo Alto,12.1,7
+Morning,Tuesday,University and Emerson,Palo Alto,15.8,6
+Morning,Thursday,SJSU 4th at San Carlos,San Jose,6.0,6
+Mid Morning,Wednesday,St James Park,San Jose,3.2,6
+Mid Morning,Friday,University and Emerson,Palo Alto,9.3,6
+Mid Morning,Friday,San Jose Civic Center,San Jose,5.8,6
+Mid Morning,Monday,Park at Olive,Palo Alto,13.2,6
+Afternoon,Monday,Mezes Park,Redwood City,3.8,6
+Mid Morning,Tuesday,San Mateo County Center,Redwood City,8.3,6
+Morning,Thursday,Arena Green / SAP Center,San Jose,11.2,6
+Morning,Friday,University and Emerson,Palo Alto,9.0,6
+Mid Morning,Friday,5th St at Folsom St,San Francisco,6.2,6
+Morning,Monday,Charleston Park/ North Bayshore Area,Mountain View,11.2,6
+Morning,Wednesday,Redwood City Medical Center,Redwood City,9.8,6
+Afternoon,Wednesday,Charleston Park/ North Bayshore Area,Mountain View,16.8,6
+Morning,Thursday,Stanford in Redwood City,Redwood City,13.8,6
+Afternoon,Friday,Franklin at Maple,Redwood City,4.4,5
+Morning,Monday,SJSU 4th at San Carlos,San Jose,8.0,5
+Morning,Tuesday,Park at Olive,Palo Alto,15.0,5
+Morning,Friday,San Mateo County Center,Redwood City,7.2,5
+Mid Morning,Wednesday,Park at Olive,Palo Alto,10.8,5
+Morning,Wednesday,Franklin at Maple,Redwood City,4.0,5
+Afternoon,Friday,5th St at Folsom St,San Francisco,6.4,5
+Afternoon,Thursday,San Mateo County Center,Redwood City,7.6,5
+Morning,Wednesday,Adobe on Almaden,San Jose,5.4,5
+Morning,Wednesday,5th St at Folsom St,San Francisco,6.4,5
+Mid Morning,Monday,San Mateo County Center,Redwood City,5.2,5
+Mid Morning,Tuesday,Adobe on Almaden,San Jose,5.2,5
+Afternoon,Monday,Redwood City Public Library,Redwood City,4.8,5
+Mid Morning,Wednesday,5th St at Folsom St,San Francisco,5.2,5
+Afternoon,Friday,Redwood City Public Library,Redwood City,7.6,5
+Mid Morning,Wednesday,San Jose Civic Center,San Jose,7.0,5
+Mid Morning,Wednesday,Arena Green / SAP Center,San Jose,8.8,5
+Mid Morning,Tuesday,5th St at Folsom St,San Francisco,6.6,5
+Morning,Wednesday,Stanford in Redwood City,Redwood City,11.2,5
+Mid Morning,Tuesday,Stanford in Redwood City,Redwood City,14.6,5
+Afternoon,Tuesday,Charleston Park/ North Bayshore Area,Mountain View,20.8,5
+Mid Morning,Wednesday,Adobe on Almaden,San Jose,5.3,4
+Morning,Friday,Park at Olive,Palo Alto,5.0,4
+Mid Morning,Thursday,Adobe on Almaden,San Jose,5.5,4
+Morning,Thursday,Redwood City Medical Center,Redwood City,4.0,4
+Mid Morning,Wednesday,San Mateo County Center,Redwood City,3.5,4
+Mid Morning,Thursday,Park at Olive,Palo Alto,14.8,4
+Morning,Monday,Park at Olive,Palo Alto,10.3,4
+Morning,Thursday,Park at Olive,Palo Alto,13.0,4
+Morning,Thursday,5th St at Folsom St,San Francisco,6.3,4
+Mid Morning,Tuesday,Park at Olive,Palo Alto,13.8,4
+Morning,Friday,Redwood City Medical Center,Redwood City,4.3,4
+Morning,Monday,5th St at Folsom St,San Francisco,6.0,4
+Mid Morning,Friday,Park at Olive,Palo Alto,12.5,4
+Morning,Friday,Charleston Park/ North Bayshore Area,Mountain View,9.5,4
+Morning,Thursday,Charleston Park/ North Bayshore Area,Mountain View,11.8,4
+Morning,Friday,Stanford in Redwood City,Redwood City,12.0,4
+Afternoon,Friday,Middlefield Light Rail Station,Mountain View,14.3,4
+Afternoon,Friday,Charleston Park/ North Bayshore Area,Mountain View,19.3,4
+Morning,Wednesday,Arena Green / SAP Center,San Jose,6.3,3
+Afternoon,Tuesday,San Mateo County Center,Redwood City,4.0,3
+Mid Morning,Thursday,Franklin at Maple,Redwood City,3.3,3
+Mid Morning,Friday,Franklin at Maple,Redwood City,3.3,3
+Mid Morning,Tuesday,Franklin at Maple,Redwood City,4.3,3
+Morning,Thursday,University and Emerson,Palo Alto,7.3,3
+Afternoon,Tuesday,Franklin at Maple,Redwood City,4.3,3
+Morning,Tuesday,5th St at Folsom St,San Francisco,6.3,3
+Mid Morning,Tuesday,Redwood City Medical Center,Redwood City,5.0,3
+Morning,Wednesday,San Mateo County Center,Redwood City,8.3,3
+Mid Morning,Thursday,San Mateo County Center,Redwood City,9.3,3
+Mid Morning,Wednesday,Redwood City Public Library,Redwood City,6.0,3
+Morning,Friday,5th St at Folsom St,San Francisco,5.7,3
+Afternoon,Wednesday,Franklin at Maple,Redwood City,4.0,3
+Mid Morning,Thursday,Redwood City Medical Center,Redwood City,5.3,3
+Afternoon,Friday,S. Market St at Park Ave,San Jose,6.7,3
+Morning,Monday,San Mateo County Center,Redwood City,8.0,3
+Mid Morning,Tuesday,San Jose Civic Center,San Jose,6.3,3
+Mid Morning,Monday,Adobe on Almaden,San Jose,10.7,3
+Morning,Tuesday,Charleston Park/ North Bayshore Area,Mountain View,15.7,3
+Mid Morning,Thursday,5th St at Folsom St,San Francisco,7.0,3
+Mid Morning,Friday,Santa Clara County Civic Center,San Jose,11.3,3
+Mid Morning,Thursday,Santa Clara County Civic Center,San Jose,12.7,3
+Afternoon,Monday,Middlefield Light Rail Station,Mountain View,12.7,3
+Afternoon,Thursday,Middlefield Light Rail Station,Mountain View,13.7,3
+Morning,Monday,Stanford in Redwood City,Redwood City,13.3,3
+Afternoon,Wednesday,Middlefield Light Rail Station,Mountain View,14.3,3
+Mid Morning,Friday,Stanford in Redwood City,Redwood City,14.3,3
+Mid Morning,Wednesday,Stanford in Redwood City,Redwood City,18.0,3
+Mid Morning,Wednesday,Franklin at Maple,Redwood City,3.0,2
+Morning,Wednesday,Redwood City Public Library,Redwood City,3.0,2
+Morning,Monday,Redwood City Public Library,Redwood City,3.5,2
+Mid Morning,Friday,Redwood City Public Library,Redwood City,3.5,2
+Morning,Tuesday,Redwood City Public Library,Redwood City,3.0,2
+Afternoon,Friday,San Mateo County Center,Redwood City,4.0,2
+Mid Morning,Wednesday,Mezes,Redwood City,4.0,2
+Mid Morning,Thursday,S. Market St at Park Ave,San Jose,4.5,2
+Afternoon,Monday,San Mateo County Center,Redwood City,19.5,2
+Afternoon,Thursday,Redwood City Public Library,Redwood City,6.0,2
+Mid Morning,Wednesday,Redwood City Medical Center,Redwood City,5.5,2
+Mid Morning,Thursday,Kaiser Hospital,Redwood City,7.5,2
+Mid Morning,Monday,Redwood City Medical Center,Redwood City,6.5,2
+Afternoon,Monday,Cyril Magnin St at Ellis St,San Francisco,8.5,2
+Mid Morning,Thursday,Charleston Park/ North Bayshore Area,Mountain View,7.5,2
+Morning,Tuesday,Sequoia Hospital,Redwood City,7.0,2
+Afternoon,Thursday,San Jose Government Center,San Jose,18.0,2
+Afternoon,Thursday,Cyril Magnin St at Ellis St,San Francisco,10.5,2
+Morning,Wednesday,Santa Clara County Civic Center,San Jose,12.0,2
+Afternoon,Friday,5th S at E. San Salvador St,San Jose,11.0,2
+Mid Morning,Monday,Santa Clara County Civic Center,San Jose,11.0,2
+Afternoon,Monday,Broadway at Main,Redwood City,12.5,2
+Afternoon,Tuesday,Middlefield Light Rail Station,Mountain View,14.0,2
+Afternoon,Wednesday,San Jose Government Center,San Jose,18.0,2
+Morning,Tuesday,Santa Clara County Civic Center,San Jose,19.0,2
+Morning,Wednesday,Park at Olive,Palo Alto,20.5,2
+Afternoon,Tuesday,Broadway at Main,Redwood City,1.0,1
+Mid Morning,Wednesday,Cyril Magnin St at Ellis St,San Francisco,1.0,1
+Afternoon,Tuesday,Cyril Magnin St at Ellis St,San Francisco,2.0,1
+Afternoon,Wednesday,San Mateo County Center,Redwood City,3.0,1
+Afternoon,Monday,Mezes,Redwood City,3.0,1
+Mid Morning,Friday,Broadway at Main,Redwood City,3.0,1
+Morning,Wednesday,S. Market St at Park Ave,San Jose,4.0,1
+Morning,Thursday,Redwood City Public Library,Redwood City,4.0,1
+Mid Morning,Monday,S. Market St at Park Ave,San Jose,4.0,1
+Mid Morning,Tuesday,Broadway at Main,Redwood City,4.0,1
+Mid Morning,Monday,Redwood City Public Library,Redwood City,4.0,1
+Mid Morning,Thursday,Redwood City Public Library,Redwood City,4.0,1
+Mid Morning,Friday,S. Market St at Park Ave,San Jose,4.0,1
+Mid Morning,Wednesday,Charleston Park/ North Bayshore Area,Mountain View,4.0,1
+Mid Morning,Tuesday,Mezes,Redwood City,4.0,1
+Morning,Tuesday,Redwood City Medical Center,Redwood City,4.0,1
+Afternoon,Monday,Franklin at Maple,Redwood City,5.0,1
+Morning,Friday,Redwood City Public Library,Redwood City,5.0,1
+Afternoon,Tuesday,S. Market St at Park Ave,San Jose,5.0,1
+Mid Morning,Friday,Redwood City Medical Center,Redwood City,6.0,1
+Mid Morning,Friday,Kaiser Hospital,Redwood City,6.0,1
+Morning,Friday,Cyril Magnin St at Ellis St,San Francisco,7.0,1
+Morning,Wednesday,Cyril Magnin St at Ellis St,San Francisco,8.0,1
+Mid Morning,Monday,Charleston Park/ North Bayshore Area,Mountain View,8.0,1
+Afternoon,Friday,Cyril Magnin St at Ellis St,San Francisco,8.0,1
+Morning,Wednesday,Kaiser Hospital,Redwood City,8.0,1
+Afternoon,Wednesday,Mezes,Redwood City,8.0,1
+Morning,Monday,Redwood City Medical Center,Redwood City,9.0,1
+Afternoon,Monday,S. Market St at Park Ave,San Jose,10.0,1
+Mid Morning,Wednesday,S. Market St at Park Ave,San Jose,10.0,1
+Morning,Monday,Cyril Magnin St at Ellis St,San Francisco,10.0,1
+Morning,Wednesday,5th S at E. San Salvador St,San Jose,10.0,1
+Mid Morning,Monday,Cyril Magnin St at Ellis St,San Francisco,10.0,1
+Morning,Thursday,5th S at E. San Salvador St,San Jose,11.0,1
+Mid Morning,Friday,Charleston Park/ North Bayshore Area,Mountain View,11.0,1
+Mid Morning,Thursday,Arena Green / SAP Center,San Jose,12.0,1
+Morning,Wednesday,5th St at E. San Salvador St,San Jose,12.0,1
+Mid Morning,Monday,Middlefield Light Rail Station,Mountain View,12.0,1
+Afternoon,Wednesday,Cyril Magnin St at Ellis St,San Francisco,12.0,1
+Mid Morning,Monday,Stanford in Redwood City,Redwood City,14.0,1
+Mid Morning,Thursday,Stanford in Redwood City,Redwood City,14.0,1
+Mid Morning,Thursday,Mezes,Redwood City,14.0,1
+Afternoon,Tuesday,5th S at E. San Salvador St,San Jose,14.0,1
+Mid Morning,Wednesday,Santa Clara County Civic Center,San Jose,14.0,1
+Morning,Wednesday,Charleston Park/ North Bayshore Area,Mountain View,16.0,1
+Mid Morning,Tuesday,San Jose Government Center,San Jose,21.0,1
+Mid Morning,Friday,San Jose Government Center,San Jose,22.0,1
+Afternoon,Tuesday,San Jose Government Center,San Jose,24.0,1
+Mid Morning,Tuesday,Redwood City Public Library,Redwood City,28.0,1
